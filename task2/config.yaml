@@ -1,0 +1,9 @@
+url_aut: 'https://test-stand.gb.ru/gateway/login'
+login: 'Petrr'
+password: 'fa258a35d9'
+url: 'https://test-stand.gb.ru/api/posts'
+check_id: 92151
+url_create_post: 'https://test-stand.gb.ru/api/posts'
+title:
+description:
+content:
